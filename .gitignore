@@ -1,0 +1,29 @@
+# Logs
+
+logs
+
+# Coverage directory used by tools like istanbul
+
+coverage
+*.lcov
+
+# dotenv environment variable files
+
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+# Stores VSCode versions used for testing VSCode extensions
+
+.vscode-test
+
+# IntelliJ based IDEs
+.idea
+
+# Finder (MacOS) folder config
+.DS_Store
+
+# Build folder
+build
